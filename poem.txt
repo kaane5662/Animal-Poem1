@@ -17,6 +17,7 @@ The planes manufactured by Airbus
 Airbus A300
 Airbus A310
 Airbus A320
+Airbus A321
 Airbus A330
 Airbus A340
 Airbus A350
