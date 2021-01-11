@@ -1,0 +1,25 @@
+The planes manufactured by Boeing
+
+Boeing 707
+Boeing 717
+Boeing 727
+Boeing 737
+Boeing 747
+Boeing 757
+Boeing 767
+Boeing 777
+Boeing 787
+
+These were the main planes manufactured by Boeing
+
+The planes manufactured by Airbus
+
+Airbus A300
+Airbus A310
+Airbus A320
+Airbus A330
+Airbus A340
+Airbus A350
+Airbus A380
+
+These were the planes manufactured by Airbus
